@@ -57,6 +57,8 @@ body {
 	margin-left: 37vw;
 	margin-top: 4vw;
 	margin-right: 1vw;
+	cursor: pointer; /* Change cursor to pointer on hover */
+	transition: background-color 0.3s; /* Smooth transition for background color change */
 }
 .btn2 {
 	padding: 12px;
@@ -69,6 +71,8 @@ body {
 	margin-left: 2vw;
 	margin-top: 1vw;
 	margin-right: 1vw;
+	cursor: pointer; /* Change cursor to pointer on hover */
+	transition: background-color 0.3s; /* Smooth transition for background color change */
 }
 .btn3 {
 	padding: 12px;
@@ -81,6 +85,8 @@ body {
 	color: white;
 	font-size: 16px;
 	border: white;
+	cursor: pointer; /* Change cursor to pointer on hover */
+	transition: background-color 0.3s; /* Smooth transition for background color change */
 }
 
 .btn4 {
@@ -91,6 +97,8 @@ body {
 	color: white;
 	font-size: 16px;
 	border: white;
+	cursor: pointer; /* Change cursor to pointer on hover */
+	transition: background-color 0.3s; /* Smooth transition for background color change */
 }
 
 .btn5 {
@@ -104,6 +112,8 @@ body {
 	color: white;
 	font-size: 16px;
 	border: white;
+	cursor: pointer; /* Change cursor to pointer on hover */
+	transition: background-color 0.3s; /* Smooth transition for background color change */
 }
 .sort
 {
@@ -118,3 +128,4 @@ body {
 	padding-top: 2vw;
 	
 }
+
